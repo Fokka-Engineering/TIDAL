@@ -3,7 +3,8 @@
 The TIDAL API is not public and thus no documentation exists. I've decompiled various TIDAL App Versions and debundled the Browser JS App to gain some knowledge about the endpoints, general API functions and the authflow. This is the documentation repository.\
 [Wiki (Work in Progress)](https://github.com/openTIDAL/docTIDAL/wiki)
 
-I deeply discourage you from building and distributing copyright-infringing apps. Create something that adds up to TIDALs Service and improves it.
-
 #### Support
 I spend hundreds of hours in reverse engineering and writing a C Library (not released yet). If you like what I do you can buy me a coffee.
+
+#### Disclaimer
+I deeply discourage you from building and distributing copyright-infringing apps. Create something that adds up to TIDALs Service and improves it.
