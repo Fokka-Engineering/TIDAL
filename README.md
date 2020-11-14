@@ -8,3 +8,10 @@ I spend hundreds of hours in reverse engineering and writing a C Library (not re
 
 #### Disclaimer
 I deeply discourage you from building and distributing copyright-infringing apps. Create something that adds up to TIDALs Service and improves it.
+
+#### Changelog
+
+11-14-2020:
+- Create Entry: Activity Feed 
+- Create Entry: Second API
+- Create Entry: Logout Endpoint
