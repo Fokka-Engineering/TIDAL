@@ -12,6 +12,6 @@ I deeply discourage you from building and distributing copyright-infringing apps
 #### Changelog
 
 11-14-2020:
-- Create Entry: Activity Feed 
-- Create Entry: Second API
-- Create Entry: Logout Endpoint
+  - Created Entry: Activity Feed 
+  - Created Entry: Second API
+  - Created Entry: Logout Endpoint
