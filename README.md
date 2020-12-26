@@ -11,8 +11,10 @@ I deeply discourage you from building and distributing copyright-infringing apps
 
 #### Changelog
 
-11-14-2020:
+12-25-2020:
   - Created Entries: Get Favorite Mixes, Add Favorite Mixes, Delete Favorite Mixes (Thank you @AustinJ235)
+
+11-14-2020:
   - Created Entry: Activity Feed 
   - Created Entry: Second API
   - Created Entry: Logout Endpoint
