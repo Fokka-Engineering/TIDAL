@@ -2,6 +2,7 @@
 #### Background
 The TIDAL API is not public and thus no documentation exists. I've decompiled various TIDAL App Versions and debundled the Browser JS App to gain some knowledge about the endpoints, general API functions and the authflow. This is the documentation repository.\
 [Wiki (Work in Progress)](https://github.com/openTIDAL/docTIDAL/wiki)
+I reversed engineered the TIDAL device authorization grant (RFC 8628) since the web flow (RFC 6749) is reCaptcha v3 secured. 
 
 #### Support
 I spend hundreds of hours in reverse engineering and writing a C Library (not released yet). If you like what I do you can buy me a coffee.
