@@ -1,4 +1,20 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H12FS8P)
+<p align="center">
+  <a href="https://github.com/openTIDAL/openTIDAL.js" target="_blank">
+    <img src="https://colo.vaaski.com/static/openTIDAL-banner.svg">
+  </a>
+</p>
+<hr>
+
+<p align="center">
+  TIDAL API documentation.
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/H2H12FS8P" alt="kofi">
+    <img src="https://www.ko-fi.com/img/githubbutton_sm.svg">
+  </a>
+</p>
+
 #### Background
 The TIDAL API is not public and thus no documentation exists. I've decompiled various TIDAL App Versions and debundled the Browser JS App to gain some knowledge about the endpoints, general API functions and the authflow. This is the documentation repository.\
 [Wiki (Work in Progress)](https://github.com/openTIDAL/docTIDAL/wiki) \
