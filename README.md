@@ -14,7 +14,7 @@ The TIDAL API is not public and thus no documentation exists. I've decompiled va
 I reversed engineered the TIDAL device authorization grant (RFC 8628) since the web flow (RFC 6749) is reCaptcha v3 secured. 
 
 #### Support
-I spend hundreds of hours in reverse engineering and writing a C Library (not released yet). If you like what I do you can buy me a coffee.
+I spend dozens of hours in reverse engineering and writing a C Library (not released yet). If you like what I do you can buy me a coffee.
 
 #### Disclaimer
 I deeply discourage you from building and distributing copyright-infringing apps. Create something that adds up to TIDALs Service and improves it.
